@@ -1,5 +1,5 @@
 {
-  "name": "Mr_V_Ranamer",
+  "name": "metadata-Bot",
   "description": "File Renamer Bot ",
   "logo": "https://telegra.ph/file/3b7050b8b5d918a00b490.jpg",
   "keywords": [
@@ -10,7 +10,7 @@
     "Rename",
     "File Rename"
   ],
-  "repository": "https://github.com/v15hnuf6n1off/Auto_Rename_Bot",
+  "repository": "https://github.com/TNSaravana/metadata-Bot",
   "success_url": "",
   "stack": "container",
   "env": {
